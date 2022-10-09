@@ -1,0 +1,3 @@
+[submodule "roboga_nlu"]
+	path = roboga_nlu
+	url = git@github.com:pmec-home/roboga_nlu.git
