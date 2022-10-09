@@ -1,3 +1,6 @@
 [submodule "roboga_nlu"]
 	path = roboga_nlu
-	url = git@github.com:pmec-home/roboga_nlu.git
+	url = https://github.com/pmec-home/roboga_nlu.git
+[submodule "roboga_chatbot"]
+	path = roboga_chatbot
+	url = https://github.com/pmec-home/roboga_chatbot.git
